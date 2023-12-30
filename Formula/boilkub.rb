@@ -3,7 +3,7 @@ class Boilkub < Formula
     homepage "https://github.com/sifer169966/boilkub"
     url "https://github.com/sifer169966/boilkub.git",
         tag: "v1.0.0",
-        revision: "8556ca79bda16ae760b4307f028e8fe55686f9a2"
+        revision: "c4d803d61f459a2498a582a3aee389042bdf076f"
     license "mit"
     head "https://github.com/sifer169966/boilkub.git", branch: "master"
   
